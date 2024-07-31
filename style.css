@@ -1,0 +1,112 @@
+header {
+ background-color: rgba(0, 128, 0, 0.678);
+    margin-top: -40px;
+    width: 100%;
+}
+.ht {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.m1 {
+    width: 250px;
+    height: 40px;
+    background-color: rgba(0, 128, 0, 0.678);
+    margin-left: 30px;
+  border-radius: 20px;
+    position: relative;
+    border: 2px solid;
+}
+.m1t {
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 19px;
+    font-size: 20px;
+
+}
+
+
+.m2 {
+    width: 250px;
+    height: 40px;
+    background-color:rgba(0, 0, 0, 0.562);
+    margin-left: 1000px;
+  border-radius: 20px;
+    position: relative;
+    border: 2px solid;
+}
+.m2t {
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 19px;
+    font-size: 20px;
+
+}
+
+
+
+.m3 {
+    width: 350px;
+    height: 40px;
+    background-color:rgba(0, 0, 0, 0.562);
+    margin-left: 1000px;
+  border-radius: 20px;
+    position: relative;
+    border: 2px solid;
+}
+.m3t {
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 19px;
+    font-size: 20px;
+
+}
+
+
+
+.m4 {
+    width: 100px;
+    height: 40px;
+    background-color: rgba(0, 128, 0, 0.678);
+    margin-left: 30px;
+  border-radius: 20px;
+    position: relative;
+    border: 2px solid;
+}
+.m4t {
+    color: white;
+    position: absolute;
+    top: -6px;
+    left: 19px;
+    font-size: 20px;
+
+}
+.mes {
+    width: 100%;
+  
+}
+.tm {
+    width: 90%;
+    height: 50px;
+    margin-top: 80px;
+    margin-left: 0px;
+    font-size: 20px;
+    position: relative;
+
+}
+#send {
+    font-size: 40px;
+    top: 580px;
+    right: 140px;
+    z-index: 2;
+    position: absolute;
+}
+#send:hover {
+    color: rgba(0, 128, 0, 0.678);
+    cursor: pointer;
+}
+
+
